@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppEleman\bin\Debug\net5.0\ConsoleAppEleman.exe
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppEleman\bin\Debug\net5.0\ConsoleAppEleman.deps.json
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppEleman\bin\Debug\net5.0\ConsoleAppEleman.runtimeconfig.json
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppEleman\bin\Debug\net5.0\ConsoleAppEleman.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppEleman\bin\Debug\net5.0\ConsoleAppEleman.dll
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppEleman\bin\Debug\net5.0\ref\ConsoleAppEleman.dll
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppEleman\bin\Debug\net5.0\ConsoleAppEleman.pdb
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppEleman\obj\Debug\net5.0\ConsoleAppEleman.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppEleman\obj\Debug\net5.0\ConsoleAppEleman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppEleman\obj\Debug\net5.0\ConsoleAppEleman.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppEleman\obj\Debug\net5.0\ConsoleAppEleman.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppEleman\obj\Debug\net5.0\ConsoleAppEleman.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppEleman\obj\Debug\net5.0\ConsoleAppEleman.dll
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppEleman\obj\Debug\net5.0\ref\ConsoleAppEleman.dll
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppEleman\obj\Debug\net5.0\ConsoleAppEleman.pdb
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppEleman\obj\Debug\net5.0\ConsoleAppEleman.genruntimeconfig.cache
